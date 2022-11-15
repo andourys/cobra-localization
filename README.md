@@ -1,2 +1,2 @@
 # cobra-localization
-Public repository for Revolvia (Steam Title Q2 2023) Localization 
+Public repository for Cobra (Roblox Experience Q4 2022) Localization 
